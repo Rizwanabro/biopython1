@@ -191,3 +191,4 @@ This is certainly not comprehensive, and if you've been overlooked
 - Yanbo Ye <https://github.com/lijax>
 - Yu Huang <krocea at domain yahoo.com.cn>
 - Yves Bastide <ybastide at domain irisa.fr>
+- Rizwan Abro < https://github.com/Rizwanabro
